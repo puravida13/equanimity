@@ -14,6 +14,7 @@ pragma solidity 0.6.6;
 // (c) by Alejandro Arocha
 // Organization designed as non for profit.  Asset tradable in the open market.
 // Designed to be a charity organization for multiple causes.
+// https://github.com/puravida13/equanimity
 // ----------------------------------------------------------------------------
 
 
